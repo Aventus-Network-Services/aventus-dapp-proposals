@@ -21,7 +21,7 @@ Aventus is pleased to present the Aventus Protocol DApp Proposal Competition, wh
 
 * **[Daniel Masters](https://www.ft.com/content/98189e2a-2af2-11e5-acfb-cbd2e1c81cca)**: Director of [Global Advisors](https://www.coindesk.com/bitcoin-hedge-fund-launches-ethereum-subscribed-ico-investment-vehicle/), one of the first regulated bitcoin/blockchain investment vehicles of its kind. Also director of [XBT Provider](https://xbtprovider.com/), the world's first bitcoin tracker to be traded on an exchange (NASDAQ Nordic).
 
-* **[Fran Strajnar](https://www.linkedin.com/in/fran-strajnar-5399a640/?ppe=1)**: Co-founder and CEO of [Brave New Coin](https://bravenewcoin.com). Has helped raise funds for hundreds of token sales over the last 2 years and has established Brave New Coin as a frontrunner in digital currency and blockchain data analytics, news, offering underwriting.
+* **[Fran Strajnar](https://www.linkedin.com/in/fran-strajnar-5399a640/?ppe=1)**: Co-founder and CEO of [Brave New Coin](https://bravenewcoin.com). Has helped gather fund contributions for hundreds of token sales over the last 2 years and has established Brave New Coin as a frontrunner in digital currency and blockchain data analytics, news, offering underwriting.
 
 * **[Steve Machin](https://www.linkedin.com/in/stevemachin/?ppe=1)**: Pioneer of the live entertainment & ticketing sectors holding a number of senior roles including ones at Ticketmaster Europe & Live Nation. Currently CEO of Accent Media Limited, owner of the *.tickets* domain, with a vision to create an authentic and trusted domain-space for online ticketing.
 
