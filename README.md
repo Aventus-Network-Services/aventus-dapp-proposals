@@ -44,9 +44,9 @@ All participants will receive their rewards a maximum of 2 weeks after the end o
 
 2. Write your proposal adhering to the [Aventus DApp Proposal Standard](#aventus-dapp-proposal-standard). For an example. check out [the CinemaTix example proposal](https://github.com/AventusSystems/aventus-dapp-proposals/issues/1), which shows a basic version of what is expected from a proposal (we hope your proposals are a bit more detailed).
 
-3. Submit it as an issue to the [AventusSystems/aventus-dapp-proposals](https://github.com/AventusSystems/aventus-dapp-proposals) repository (click on *issues*, and *create new*). 
+3. Submit it as an issue to the [AventusSystems/aventus-dapp-proposals](https://github.com/AventusSystems/aventus-dapp-proposals) repository (click on *issues*, and *create new*). Then, submit [the following form](https://docs.google.com/forms/d/1tL571xA65Ple11Ko9hT03e9MXuOcnt4j_oCNo6L6uNY/) so we can contact you.
 
-4. Once you submit it, an Aventus team member will review it and examine whether it adheres to the proposal standard. If it does not, they will close your issue. If it does, they will leave a comment saying "This proposal has been approved". You will be able to track the status of your proposal's approval on [this spreadsheet]() as well. 
+4. Once you submit it, an Aventus team member will review it and examine whether it adheres to the proposal standard. If it does not, they will close your issue. If it does, they will leave a comment saying "This proposal has been approved". You will be able to track the status of your proposal's approval on [this spreadsheet](https://docs.google.com/spreadsheets/d/1Qo2FwLC0ocMjTe8RTT7aNOXbxmHE0Wn-Zz1J6zCL8Jo/edit?usp=sharing) as well. 
 
 5. Once it is approved, the proposal will be added to the [Aventus DApp Proposal Competition Voting Form](https://docs.google.com/forms/d/1DVdtzHpfoCoem6iRSz67Br3Cews1kTC5dnhzLbJlEx8), where individuals can vote on their choice for the top 3 DApp ideas. The vote outcomes can be found if you click *view past responses* in the form. You can share the form and have anyone you know vote for your proposal.
 
