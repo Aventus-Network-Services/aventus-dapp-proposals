@@ -42,7 +42,7 @@ All participants will receive their rewards a maximum of 2 weeks after the end o
 ## How to Participate
 1. Create a Github account if you do not already have one at https://github.com.
 
-2. Write your proposal adhering to the [Aventus DApp Proposal Standard](#aventus-dapp-proposal-standard).
+2. Write your proposal adhering to the [Aventus DApp Proposal Standard](#aventus-dapp-proposal-standard). For an example. check out [the CinemaTix example proposal](https://github.com/AventusSystems/aventus-dapp-proposals/issues/1), which shows a basic version of what is expected from a proposal (we hope your proposals are a bit more detailed).
 
 3. Submit it as an issue to the [AventusSystems/aventus-dapp-proposals](https://github.com/AventusSystems/aventus-dapp-proposals) repository (click on *issues*, and *create new*). 
 
@@ -54,6 +54,8 @@ All participants will receive their rewards a maximum of 2 weeks after the end o
 
 ## Aventus DApp Proposal Standard
 The Aventus DApp Proposal Standard is the standard to which all competition entries should adhere. The purpose of it is to ensure a minimum quality standard in entries, and a selection of information about a proposal that makes it easy for the public and the judging panel to understand and evaluate it relative to other proposals in a fair and complete manner, judging its overall utility for the ecosystem.
+
+For an example. check out [the CinemaTix example proposal](https://github.com/AventusSystems/aventus-dapp-proposals/issues/1), which shows a basic version of what is expected from a proposal (we hope your proposals are a bit more detailed).
 
 All proposals should be structured as follows:
 
