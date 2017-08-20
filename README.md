@@ -31,11 +31,11 @@ Aventus is pleased to present the Aventus Protocol DApp Proposal Competition, wh
 
 * For entering the competition and **having your proposal approved**, you are eligible for a reward of 1,200 AVT ($30 at the initial valuation).
 
-* For **winning the competition**, you will earn 400,000 AVT ($10,000 at the initial valuation).
+* For **winning the competition**, you will earn 4000 AVT ($10,000 at the initial valuation).
 
-* For **coming second place in the competition**, you will earn 160,000 AVT ($4,000 at the initial valuation).
+* For **coming second place in the competition**, you will earn 1600 AVT ($4,000 at the initial valuation).
 
-* For **coming in third place in the competition**, you will earn 40,000 AVT ($1,000 at the initial valuation).
+* For **coming in third place in the competition**, you will earn 400 AVT ($1,000 at the initial valuation).
 
 All participants will receive their rewards a maximum of 2 weeks after the end of the token sale (20 September 2017).
 
