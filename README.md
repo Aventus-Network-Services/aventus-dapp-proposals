@@ -63,10 +63,11 @@ All proposals should be structured as follows:
 
 3. **Description:** A full description of what the application is and how it will work. You should try to answer the following:
     * The problem you are solving: why does this idea matter in the real world?
-    * How will this idea benefit the Aventus ecosystem? How will it utilise the Aventus protocol? 
-    * What part of the ticketing lifecycle will your solution tackle? Primary sales, secondary sales, event creation, etc?
     * What is your solution, in simple words?
     * How will your solution work?
+    * How will this idea benefit the Aventus ecosystem? How will it utilise the Aventus protocol? 
+    * What part of the ticketing lifecycle will your solution tackle? Primary sales, secondary sales, event creation, etc?
     * Who will use your solution? Is it a ticketing agent, an event organiser, an artist, etc.
     * What value does your solution have for said customer?
+    * How will you monetise your solution? What is your business model?
   
