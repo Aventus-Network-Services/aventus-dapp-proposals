@@ -29,7 +29,7 @@ Aventus is pleased to present the Aventus Protocol DApp Proposal Competition, wh
 
 ## Competition Rewards
 
-* For entering the competition and **having your proposal approved**, you are eligible for a reward of 1200 AVT ($30 at the initial valuation).
+* For entering the competition and **having your proposal approved**, you are eligible for a reward of 12 AVT ($30 at the initial valuation).
 
 * For **winning the competition**, you will earn 4000 AVT ($10,000 at the initial valuation).
 
