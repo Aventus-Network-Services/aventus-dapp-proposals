@@ -2,7 +2,7 @@
 Aventus is pleased to present the Aventus Protocol DApp Proposal Competition, where members of the public are invited to come up with and present detailed ideas for DApps powered by the Aventus protocol. Interested potential participants can refer to **[this blog post](https://blog.aventus.io/a-closer-look-at-the-aventus-ecosystem-fd843786ddc9)** for an overview of key parts of the Aventus ecosystem, and different questions and processes a layer above the protocol that can be addressed by DApps to provide a better service to event organisers, promoters, ticket buyers, and other industry participants.
 
 ## Competition Structure
-* The competition will run from 18 August to 3 September, and the top 3 proposals will be selected by the 5 September.
+* The competition submission period will run from 18 August to 3 September, the voting period will run from 3 September to the 10 September, and the top 3 proposals will be selected by our judging panel by the 13 September.
 
 * Throughout the time period, candidates will be able to submit detailed proposals for their DApp ideas as issues in the [AventusSystems/aventus-dapp-proposals](https://github.com/AventusSystems/aventus-dapp-proposals) repository.
 
@@ -10,7 +10,7 @@ Aventus is pleased to present the Aventus Protocol DApp Proposal Competition, wh
 
 * Once it is approved, the proposal will be added to the [Aventus DApp Proposal Competition Voting Form](https://docs.google.com/forms/d/1DVdtzHpfoCoem6iRSz67Br3Cews1kTC5dnhzLbJlEx8), where individuals can vote on their choice for the top 3 DApp ideas. The vote outcomes can be found if you click *view past responses* in the form. 
 
-* On 3 September, the 6 proposals with the highest number of votes will be selected and put through to the competition's [judging panel](#meet-the-judges). The judges will then select the winner (AVT prize of ~$10,000 at initial valuation), the runner-up (AVT prize of ~$4,000 at initial valuation), and third place (AVT prize of ~$1,000 at initial valuation).
+* On 3 September, submissions will close and no more new DApp proposal ideas will be accepted. Then, a voting period will commence until the 10 September where people will only be able to vote on the proposals. On september 10, the 6 proposals with the highest number of votes will be selected and put through to the competition's [judging panel](#meet-the-judges). The judges will then select the winner (AVT prize of ~$10,000 at initial valuation), the runner-up (AVT prize of ~$4,000 at initial valuation), and third place (AVT prize of ~$1,000 at initial valuation).
 
   
 ## Meet the Judges
@@ -37,7 +37,7 @@ Aventus is pleased to present the Aventus Protocol DApp Proposal Competition, wh
 
 * For **coming in third place in the competition**, you will earn 400 AVT ($1,000 at the initial valuation).
 
-All participants will receive their rewards a maximum of 2 weeks after the end of the token sale (20 September 2017).
+All participants will receive their rewards a maximum of 3 weeks after the end of the token sale (26 September 2017).
 
 ## How to Participate
 1. Create a Github account if you do not already have one at https://github.com.
@@ -48,9 +48,9 @@ All participants will receive their rewards a maximum of 2 weeks after the end o
 
 4. Once you submit it, an Aventus team member will review it and examine whether it adheres to the proposal standard. If it does not, they will close your issue. If it does, they will leave a comment saying "This proposal has been approved". You will be able to track the status of your proposal's approval on [this spreadsheet](https://docs.google.com/spreadsheets/d/1Qo2FwLC0ocMjTe8RTT7aNOXbxmHE0Wn-Zz1J6zCL8Jo/edit?usp=sharing) as well. 
 
-5. Once it is approved, the proposal will be added to the [Aventus DApp Proposal Competition Voting Form](https://docs.google.com/forms/d/1DVdtzHpfoCoem6iRSz67Br3Cews1kTC5dnhzLbJlEx8), where individuals can vote on their choice for the top 3 DApp ideas. The vote outcomes can be found if you click *view past responses* in the form. You can share the form and have anyone you know vote for your proposal.
+5. Once it is approved, the proposal will be added to the [Aventus DApp Proposal Competition Voting Form](https://docs.google.com/forms/d/1DVdtzHpfoCoem6iRSz67Br3Cews1kTC5dnhzLbJlEx8), where individuals can vote on their choice for the top 3 DApp ideas. The vote outcomes can be found if you click *view past responses* in the form. You can share the form and have anyone you know vote for your proposal. The voting period will end on the 10 September.
 
-6. On 3 September, the 6 proposals with the highest number of votes will be selected and put through to the competition's [judging panel](#meet-the-judges). The judges will then select the winner (AVT prize of ~$10,000 at initial valuation), the runner-up (AVT prize of ~$4,000 at initial valuation), and third place (AVT prize of ~$1,000 at initial valuation).
+6. On 10 September, the 6 proposals with the highest number of votes will be selected and put through to the competition's [judging panel](#meet-the-judges). The judges will then select the winner (AVT prize of ~$10,000 at initial valuation), the runner-up (AVT prize of ~$4,000 at initial valuation), and third place (AVT prize of ~$1,000 at initial valuation).
 
 ## Aventus DApp Proposal Standard
 The Aventus DApp Proposal Standard is the standard to which all competition entries should adhere. The purpose of it is to ensure a minimum quality standard in entries, and a selection of information about a proposal that makes it easy for the public and the judging panel to understand and evaluate it relative to other proposals in a fair and complete manner, judging its overall utility for the ecosystem.
